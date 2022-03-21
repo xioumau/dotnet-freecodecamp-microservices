@@ -69,7 +69,7 @@ No menu lateral esquerdo, clique em *Collections* e você terá a rota para os v
 Ainda em *Collections*, clique nos três pontos ao lado do nome da API, clique em *Edit*, acesse *Variables* e nos campos *INITIAL VALUE* e *CURRENT VALUE* escreva a URL da nossa API, no nosso caso é ```https://localhost:5001```.
 
 
-Para que possamos usar o pacote que criamos é necessário indicar onde esse pacote está. O comando deve ser executado na pasta root do projeto (que no meu caso é: ```/home/mauricio/vscodeProjects/FreeCodeCamp/Play.Catalog ```). Digite o seguinte comando no caminho acima:
+Para que possamos usar o [pacote que criamos](https://github.com/xioumau/dotnet-create-package) é necessário indicar onde esse pacote está. O comando deve ser executado na pasta root do projeto (que no meu caso é: ```/home/mauricio/vscodeProjects/FreeCodeCamp/Play.Catalog ```). Digite o seguinte comando no caminho acima:
 ```bash
 dotnet nuget add source /home/mauricio/vscodeProjects/FreeCodeCamp/packages -n PlayEconomy
 ``` 
