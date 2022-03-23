@@ -1,3 +1,8 @@
+
+Fazem parte desse projeto:  
+[Infra](https://github.com/xioumau/dotnet-microservices-infra)  
+[Pacote para MongoDB](https://github.com/xioumau/dotnet-create-package)
+
 Iniciar um projeto Web API:
 
 ```
